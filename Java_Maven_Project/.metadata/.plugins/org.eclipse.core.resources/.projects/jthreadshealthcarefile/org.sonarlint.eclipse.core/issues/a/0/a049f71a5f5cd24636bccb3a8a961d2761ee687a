@@ -1,0 +1,17 @@
+
+M
+java:S1643E"Use a StringBuilder instead.(ç®‚¡ÿÿÿÿÿHïRMINORZ
+CODE_SMELL
+T	java:S108`")Either remove or fill this block of code.(ï­£ÄHˆRMAJORZ
+CODE_SMELL
+Q
+java:S10754"&Remove this hard-coded path-delimiter.(´ğÌHğRMINORZ
+CODE_SMELL
+T	java:S108z")Either remove or fill this block of code.(ï­£ÄHñRMAJORZ
+CODE_SMELL
+
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(öñæÑH‰RCRITICALZ
+CODE_SMELL
+•
+java:S4087x"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ò–Û8¶Š¨ô•/H«RMINORZ
+CODE_SMELL

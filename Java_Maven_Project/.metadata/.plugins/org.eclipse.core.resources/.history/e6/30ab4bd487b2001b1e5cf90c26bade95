@@ -1,0 +1,8 @@
+Date Time OEM Manufacturer Name Number of Records File Sequence Total Cost
+05062021 16:59:04 SuperToughGlass 10 001 1234.5 
+ID	Category	SKU	DateofManufacturer	ISFragile	ModelNumber	Color	Cost	
+00101%%FrontShieldGlass%%1234545890987654545%%12042021%%Y%%CarSheild001212121%%RED%%123.45
+00301%%FrontShieldGlass%%1234534890987654545%%14042021%%Y%%CarSheild001212121%%YEL%%123.45
+00401%%FrontShieldGlass%%1256567890987654545%%15042021%%Y%%CarSheild001212121%%ORA%%123.45
+00501%%FrontShieldGlass%%1234567890987654545%%16042021%%Y%%CarSheild001212121%%RED%%123.45
+00601%%FrontShieldGlass%%1234578890987654545%%17042021%%Y%%CarSheild001212121%%RED%%123.45

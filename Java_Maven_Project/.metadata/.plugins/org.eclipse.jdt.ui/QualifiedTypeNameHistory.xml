@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="com.srm.filehandling.s4jexceptioncaredi.CarFileHandler"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="com.srm.threads.jthreadshealthcarefile.PatientFileReaderImpl"/>
+</qualifiedTypeNameHistroy>

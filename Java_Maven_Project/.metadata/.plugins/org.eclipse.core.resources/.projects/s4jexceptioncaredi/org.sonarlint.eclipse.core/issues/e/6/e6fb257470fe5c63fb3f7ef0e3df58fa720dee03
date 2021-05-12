@@ -1,0 +1,22 @@
+
+f
+java:S1141r"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+W
+java:S1075C"&Remove this hard-coded path-delimiter.(‘·ğ’ıÿÿÿÿHŞRMINORZ
+CODE_SMELL
+f
+java:S1141K"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿHöRMAJORZ
+CODE_SMELL
+
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ú††HäRCRITICALZ
+CODE_SMELL
+T
+java:S14819"(Remove this unused "dom" local variable.(Û§°‘HøRMINORZ
+CODE_SMELL
+c
+java:S1117n"7Rename "sdf" which hides the field declared at line 24.(¼Ê¿ÉHÙRMAJORZ
+CODE_SMELL
+T
+java:S1643j"Use a StringBuilder instead.(šÅ§¼úÿÿÿÿ8«åÚå•/HßRMINORZ
+CODE_SMELL
